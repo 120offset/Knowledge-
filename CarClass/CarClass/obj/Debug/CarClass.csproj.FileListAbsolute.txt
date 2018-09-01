@@ -1,0 +1,6 @@
+c:\users\miguel\Desktop\CarClass\CarClass\bin\Debug\CarClass.dll
+c:\users\miguel\Desktop\CarClass\CarClass\bin\Debug\CarClass.pdb
+c:\users\miguel\Desktop\CarClass\CarClass\obj\Debug\CarClass.csprojResolveAssemblyReference.cache
+c:\users\miguel\Desktop\CarClass\CarClass\obj\Debug\CarClass.csproj.CoreCompileInputs.cache
+c:\users\miguel\Desktop\CarClass\CarClass\obj\Debug\CarClass.dll
+c:\users\miguel\Desktop\CarClass\CarClass\obj\Debug\CarClass.pdb

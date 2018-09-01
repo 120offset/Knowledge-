@@ -1,0 +1,10 @@
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\bin\Debug\CarConsole.exe.config
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\bin\Debug\CarConsole.exe
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\bin\Debug\CarConsole.pdb
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\bin\Debug\CarClass.dll
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\bin\Debug\CarClass.pdb
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\obj\Debug\CarConsole.csprojResolveAssemblyReference.cache
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\obj\Debug\CarConsole.csproj.CoreCompileInputs.cache
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\obj\Debug\CarConsole.csproj.CopyComplete
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\obj\Debug\CarConsole.exe
+c:\Users\MIGUEL\Desktop\CarClass\CarConsole\obj\Debug\CarConsole.pdb
