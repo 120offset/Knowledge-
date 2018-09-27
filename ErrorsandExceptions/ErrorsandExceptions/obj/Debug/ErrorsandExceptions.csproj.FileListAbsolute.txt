@@ -1,7 +1,0 @@
-C:\Users\MIGUEL\Documents\Microsoft Press\VCSBS\Exercise3A\ErrorsandExceptions\ErrorsandExceptions\bin\Debug\ErrorsandExceptions.exe.config
-C:\Users\MIGUEL\Documents\Microsoft Press\VCSBS\Exercise3A\ErrorsandExceptions\ErrorsandExceptions\bin\Debug\ErrorsandExceptions.exe
-C:\Users\MIGUEL\Documents\Microsoft Press\VCSBS\Exercise3A\ErrorsandExceptions\ErrorsandExceptions\bin\Debug\ErrorsandExceptions.pdb
-C:\Users\MIGUEL\Documents\Microsoft Press\VCSBS\Exercise3A\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.csprojResolveAssemblyReference.cache
-C:\Users\MIGUEL\Documents\Microsoft Press\VCSBS\Exercise3A\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.csproj.CoreCompileInputs.cache
-C:\Users\MIGUEL\Documents\Microsoft Press\VCSBS\Exercise3A\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.exe
-C:\Users\MIGUEL\Documents\Microsoft Press\VCSBS\Exercise3A\ErrorsandExceptions\ErrorsandExceptions\obj\Debug\ErrorsandExceptions.pdb
